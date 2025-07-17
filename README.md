@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a computer science and math student at Emory University, currently pursuing a BS/MS joint degree. I’m passionate about artificial intelligence, game development, and data science. I enjoy building things—from intelligent systems to interactive applications.
+I'm a computer science and math student at Emory University, currently pursuing a BS/MS joint degree. I’m passionate about HCI, artificial intelligence, game development, and data science. I enjoy building things—from intelligent systems to interactive applications.
 
 I’ve conducted applied AI research in Emory's AI Data Lab, interned as a backend engineer at a financial tech company, and led an esports team as a coordinator and coach. My work spans machine learning models, SDL3-based games, and experimental HCI prototypes.
 
